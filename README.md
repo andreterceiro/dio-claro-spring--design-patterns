@@ -6,3 +6,5 @@ In [this class](https://web.dio.me/lab/explorando-padroes-de-projetos-na-pratica
 ## Groups of design patterns
 
 ![groups of design patterns](images/groups-of-design-patterns.png)
+
+Teacher teached us that the interface `List` is an example of the application of the `strategy` design pattern.
