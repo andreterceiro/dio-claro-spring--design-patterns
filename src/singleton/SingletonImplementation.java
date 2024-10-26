@@ -1,3 +1,4 @@
+package singleton;
 public class SingletonImplementation {
     private static final SingletonImplementation instance = new SingletonImplementation();
 
