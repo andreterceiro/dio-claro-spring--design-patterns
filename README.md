@@ -25,3 +25,10 @@ Teacher showed us three similar variations of `Singleton` implementations. To mo
 UML diagram:
 
 ![UML diagram of Strategy Design Pattern](images/uml-diagram-of-strategy-design-pattern.png)
+
+
+### Facade
+
+UML diagram:
+
+![UML diagram of Facade Design Pattern](images/uml-diagram-of-strategy-design-pattern.png)
