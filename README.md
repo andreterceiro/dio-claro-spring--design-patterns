@@ -41,3 +41,12 @@ If you need to understand better this pattern, please watch [the class](https://
 Basic slide:
 
 ![patterns in Spring Framework](images/some-patterns-in-spring-framework.png)
+
+
+## Some comments about the project
+
+Class [link](http://web.dio.me/lab/explorando-padroes-de-projetos-na-pratica-com-java/learning/975a7cad-08ec-43be-9f34-5c3c65aa6ba7).
+
+Professor tell us that he used [www.jsonschema2pojo.org](https://www.jsonschema2pojo.org/) to generate some classes.
+
+He got the JSON schema in the VIA CEP website and generated the Java the classes (or class, because in the example he talked about the generation of only one class).
